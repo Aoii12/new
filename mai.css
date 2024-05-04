@@ -13,6 +13,11 @@ color: aliceblue;
     height: auto;
 }
 
+.responsive1 {
+	width: 50%;
+	height: auto;
+}
+
 
 body {
 	background: #1D1B26;
